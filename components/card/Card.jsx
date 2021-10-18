@@ -86,7 +86,7 @@ const Card = (props, index) =>{
         <div className="containerButtom">
             <span>Você gostou dessa decisão?</span>
             <ButtonToolbar>
-                <IconButton active={false} color="green" icon={<FaThumbsUp />} size="lg"  appearance="subtle" onClick={e => onClickPositive(e)}/>
+                <IconButton color="green" icon={<FaThumbsUp />} size="lg"  appearance="subtle" onClick={e => onClickPositive(e)}/>
                 <IconButton color="red" icon={<FaThumbsDown />} size="lg" appearance="subtle" onClick={e => onClickNegative(e)}/>
             </ButtonToolbar>
         </div>

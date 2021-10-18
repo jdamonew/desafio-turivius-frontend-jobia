@@ -1,0 +1,8 @@
+.btnCopy {
+    background-color: #F7F7FA;
+  }
+  
+  .btnCopy:hover, .btnCopy:hover .rs-icon{
+    color: #ffffff;
+    background-color: #f37e00 !important;
+  }

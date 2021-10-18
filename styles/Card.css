@@ -1,0 +1,73 @@
+
+*::selection{
+  color: #ffffff;
+  background-color: #f37e00;
+}
+
+.turivius-card.rs-panel {
+  background-color: #fff;
+  margin: 5px;
+  border-left: 5px solid #001645;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.container h4{
+  color: #001645 ;
+  margin-bottom: 10px;
+}
+
+.container h5{
+  color: #3d3d3d ;
+  margin-bottom: 10px;
+}
+
+.titleContent{
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.scopeContent{
+  margin-bottom: 15px;
+}
+
+.collapsePanel span{
+  font-weight: bold;
+  color: #001645;
+}
+
+
+.dtPub {
+  display: block;
+  color: #f37e00a2 ;
+  margin-top: 20px;
+  font-style: italic;
+}
+
+.containerCopy {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.containerButtom{
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+}
+.containerButtom span {
+  display: block;
+  color: #aaaaaa;
+  margin-right: 10px;
+
+}
+
+svg{
+  pointer-events: none;
+}

@@ -1,6 +1,6 @@
 # Turivius *Front-End* Test #
 
-> Teste para seleção de desenvolvedores *Front-End* da Turivius
+Teste para seleção de desenvolvedores *Front-End* da Turivius
 
 ## Desenvolvimento ##
 
